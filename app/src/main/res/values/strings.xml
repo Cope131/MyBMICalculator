@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My BMI Calculator</string>
+    <string name="hintWeight">Weight</string>
+    <string name="hintHeight">Height</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset Data</string>
+    <string name="date">Last Calculated Date:</string>
+    <string name="bmi">Last Calculated BMI:</string>
+    <string name="pounds">Pounds (lbs)</string>
+    <string name="kilograms">Kilograms (kg)</string>
+    <string name="centimeters">Centimeters (cm)</string>
+    <string name="meters">Meters (m)</string>
+
+</resources>
